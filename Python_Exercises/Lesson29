@@ -1,0 +1,9 @@
+#import FILE as SHORTNAME
+#|	|     |	  this is the actual shortname (obviously no special/weird characters
+#|	|     you don't need to use the as, but as just lets you make a shorter name to type for the file
+#|	the python file in the same directory (without the .py extension written)
+#the import command
+
+#You can import files from your installed libraries (aka libraries used with sudo apt get) the same way
+#We use a lot of unofficial/small packages that some random person made and isnt installed
+#Just put the actual python file in the same directory, or find out how to import from different directories (use google like a real coder!)

@@ -1,0 +1,19 @@
+import Lesson28Helper as L28H
+
+#The last kinda big idea concept... the import line
+#What does it do? It simply allows you to access data in that file
+#Watch
+
+myGoodBoi = L28H.Dog("James", "black", "Chiuawa", 21, True)
+
+print(myGoodBoi.whatAnimal())
+
+#Note, this will allow you to access data from the file, but won't run that file
+#If you have things outside of a function or class, it will basically be ignored when it's imported
+#Heres where it gets a little annyoing
+
+myRandomAnimal = L28H.Cat("Mr Meow wow", "Black with white spot", "idk do cats have a breed", 3, True)
+
+#Who knows what functions class Cat has! It could have anything, but you can find out if you nano Lesson28Helper.py
+#To finish this assingment just make myRandomAnimal do any function in its class
+

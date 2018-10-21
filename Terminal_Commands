@@ -1,0 +1,17 @@
+#Welcome! Here's a simple reminder of the bash (aka terminal) commands you should know... btw this is unix devices only (mac/linux)
+
+#ls -- show the contents of the current directory (folder)
+#cd FOLDER -- go to a directory, use .. to go back or FOLDER/SUBFOLDER to traverse multible folders
+#cd ~ -- go to your user directory
+#cd / -- go to your root directory
+#mkdir NAME -- make a director
+#touch NAME.FILETYPE -- make a file with a filetype
+#rm FILE -- remove a file
+#rmdir DIRECTORY -- remove an empty folder
+#rm -r -f DIRECTORY -- force remove a folder recursively (aka remove a folder with stuff)
+#nano FILE -- basic terminal-based text editor, use ^x (control x), then hit y or n to confirm, and enter to save
+#sudo COMMAND -- use a command with all privelges
+#git clone GITHUBURL -- clone a repository (folder) from github
+#python FILE.py -- run a python file (you hopefully made)
+
+#use the arrow keys to run previously run commands and us the TAB key to autocomplete commands
